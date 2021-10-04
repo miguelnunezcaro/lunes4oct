@@ -7,11 +7,5 @@ Esta es la intro
 
 ## Capítulo 1
 
-Este es el texto del capítulo 1
-asd
-asd
-asd
-asd
-...
-
+Hola Soy Miguel
 
